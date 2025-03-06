@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hakim-emas.github.io/temukan/Rahasia-Kemenangan-di-Wisdom-of-Athena-1000-:-Strategi-dari-Sang-Dewi!-Hakim4d.html/sitemap.xml
